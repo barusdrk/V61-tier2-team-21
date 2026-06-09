@@ -1,37 +1,40 @@
-# voyage-tasks
+# Voyage #61 - Team #21
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+Welcome to the README for Team #21 of Chingu Voyage #61.
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+## Overview
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+Our team has been assigned the task of producing a clone of the popular browser game [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
-> Own it & Make it your Own!
+#### LIVE-LINK: coming soon!
 
-## Team Documents
+## Tech Stack
 
-You may find these helpful as you work together to organize your project.
+So far, we have come up with the following stack for implementation:
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
+- **UI/UX Design:** Figma
+- **Frontend:** Vite /w React & TypeScript, TailwindCSS
+- **Backend:** -
+- **CI/CD:** GitHub Actions
 
-Meeting Agenda templates (located in the `/docs` directory in this repo):
+...more to come!
 
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
+## How to Run the Project
 
-## Our Team
+Coming soon!
 
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team *before* you start
-coding!
+## 👥 Our Team
 
+#### 🚀 Project Manager
+
+- Ademola Kujore: [GitHub](https://github.com/Dhemmyhardy) / [LinkedIn](https://linkedin.com/in/tundeademolakujore)
+
+#### 📚 UI/UX Designer
+
+- Tu Huynh: [GitHub](https://github.com/worktuhuynh1995-dot) / [LinkedIn](https://www.linkedin.com/in/tu-huynh-563b95257/)
+
+#### 🔧 Web Developers
+
+- Danim Kim (Tina) [GitHub](https://github.com/danimkim/) / [LinkedIn](https://www.linkedin.com/in/danimtinakim/)
+- William East [GitHub](https://github.com/wjbetech) / [LinkedIn](https://www.linkedin.com/in/wjbetech/)
 - Derek Barus: [GitHub](https://github.com/barusdrk) / [LinkedIn](http://www.linkedin.com/in/derek-barus-5896b3233)
